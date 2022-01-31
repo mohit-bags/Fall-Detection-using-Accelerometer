@@ -1,0 +1,27 @@
+------ fall_trial5_Log_2022_01_31_14_03_45.txt.csv -------
+None
+------ fall_trial6_Log_2022_01_31_14_07_54.txt.csv -------
+None
+------ fall_trial3_Log_2022_01_31_13_59_41.txt.csv -------
+None
+------ fall_trial7_Log_2022_01_31_14_06_08.txt.csv -------
+None
+------ fall_trial2_Log_2022_01_31_13_16_50.csv -------
+1575 Free Fall detected
+1600 Free Fall detected
+1600 Impact also deteced-SAME WINDOW
+1600 Inactivness not detected, but value: 215.3711872802291
+1625 Free Fall detected
+1625 Impact also deteced-SAME WINDOW
+1625 Inactivness, FALL CONFIRMED
+2225 Free Fall detected
+2250 Free Fall detected
+2250 Impact also deteced-SAME WINDOW
+2250 Inactivness, FALL CONFIRMED
+2925 Free Fall detected
+2950 Free Fall detected
+2950 Impact also deteced-SAME WINDOW
+2950 Inactivness not detected, but value: 359.94083471213145
+None
+------ fall_trial4_Log_2022_01_31_14_02_04.txt.csv -------
+None
