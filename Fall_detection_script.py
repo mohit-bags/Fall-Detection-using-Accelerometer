@@ -1,6 +1,7 @@
 import numpy as np 
 import pandas as pd
 import glob
+import sys
 
 def extract_mean_max_min(data,start_time,win_size=50): #25Hz sampling rate
     avg=0
@@ -54,6 +55,8 @@ def detect_free_fall(df,threshold_tending_0,impact_activity,inactivity,win_size=
 
 folder_path = '/Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas'
 file_list = glob.glob(folder_path + "/*.csv")
+sys.stdout=open("/Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_outputs.txt","w")
+
 for i in range(0,len(file_list)):
     print("------",file_list[i],"-------")
     df = pd.read_csv(file_list[i],header=None)
@@ -62,3 +65,4 @@ for i in range(0,len(file_list)):
     df['Magnitude']=np.sqrt(df['X']*df['X']+df['Y']*df['Y']+df['Z']*df['Z'])
     print(detect_free_fall(df,120,2000,200))
 
+sys.stdout.close()
