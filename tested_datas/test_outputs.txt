@@ -1,0 +1,36 @@
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/fall_trial10_Log 2022_01_31_14_36_41.txt.csv -------
+None
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/fall_trial9_Log_2022_01_31_14_34_43.txt.csv -------
+None
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/fall_trial8_Log_2022_01_31_14_41_10.txt.csv -------
+550 Free Fall detected
+550 Impact also deteced-SAME WINDOW
+550 Inactivness, FALL CONFIRMED
+575 Free Fall detected
+575 Impact also deteced-SAME WINDOW
+575 Inactivness, FALL CONFIRMED
+1025 Free Fall detected
+1050 Free Fall detected
+1050 Impact also deteced-SAME WINDOW
+1050 Inactivness, FALL CONFIRMED
+1075 Free Fall detected
+1075 Impact also deteced-SAME WINDOW
+1075 Inactivness, FALL CONFIRMED
+1525 Free Fall detected
+1550 Free Fall detected
+1550 Impact also deteced-SAME WINDOW
+1550 Inactivness, FALL CONFIRMED
+None
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/fall_trial11_Log_2022_01_31_14_39_11.txt.csv -------
+1350 Free Fall detected
+1375 Free Fall detected
+1375 Impact also deteced-SAME WINDOW
+1375 Inactivness, FALL CONFIRMED
+2100 Free Fall detected
+2125 Free Fall detected
+2125 Impact also deteced-SAME WINDOW
+2125 Inactivness, FALL CONFIRMED
+2150 Free Fall detected
+2150 Impact also deteced-SAME WINDOW
+2150 Inactivness, FALL CONFIRMED
+None

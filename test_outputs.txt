@@ -1,36 +1,65 @@
------- /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/fall_trial10_Log 2022_01_31_14_36_41.txt.csv -------
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/25sfall_Log_2022_02_01_08_22_53.txt.csv -------
+50 Free Fall detected
+75 Free Fall detected
+75 Impact detected-SAME WINDOW, val: 2223.6811061518306
+75 Inactivness, FALL CONFIRMED
+625 Free Fall detected
+650 Free Fall detected
+650 Impact detected-SAME WINDOW, val: 3393.6215635506915
+650 Inactivness, FALL CONFIRMED
 None
------- /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/fall_trial9_Log_2022_01_31_14_34_43.txt.csv -------
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/20fall-28up-50fall_Log_2022_02_01_08_25_24.txt.csv -------
+25 Free Fall detected
+50 Free Fall detected
+75 Free Fall detected
+100 Free Fall detected
+425 Free Fall detected
+425 Impact detected-SAME WINDOW, val: 2338.9932327327224
+425 Inactivness not detected, but value: 596.888082649478
+450 Free Fall detected
+450 Impact detected-SAME WINDOW, val: 2338.9932327327224
+450 Inactivness not detected, but value: 551.3311345724659
+725 Free Fall detected
+750 Free Fall detected
+750 Impact detected-SAME WINDOW, val: 2201.8862141523946
+750 Inactivness, FALL CONFIRMED
 None
------- /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/fall_trial8_Log_2022_01_31_14_41_10.txt.csv -------
-550 Free Fall detected
-550 Impact also deteced-SAME WINDOW
-550 Inactivness, FALL CONFIRMED
-575 Free Fall detected
-575 Impact also deteced-SAME WINDOW
-575 Inactivness, FALL CONFIRMED
-1025 Free Fall detected
-1050 Free Fall detected
-1050 Impact also deteced-SAME WINDOW
-1050 Inactivness, FALL CONFIRMED
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/20s_and_40s falls_Log_2022_02_01_08_19_44.txt.csv -------
+625 Free Fall detected
+625 Impact detected-SAME WINDOW, val: 3989.4675986703787
+625 Inactivness not detected, but value: 362.10442100343687
+650 Free Fall detected
+650 Impact detected-SAME WINDOW, val: 4061.561414910847
+650 Inactivness, FALL CONFIRMED
 1075 Free Fall detected
-1075 Impact also deteced-SAME WINDOW
+1075 Impact detected-SAME WINDOW, val: 6646.101156476702
 1075 Inactivness, FALL CONFIRMED
-1525 Free Fall detected
-1550 Free Fall detected
-1550 Impact also deteced-SAME WINDOW
-1550 Inactivness, FALL CONFIRMED
 None
------- /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/fall_trial11_Log_2022_01_31_14_39_11.txt.csv -------
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/22sfall_35sgotup_50fallagain_Log_2022_02_01_08_17_56.txt.csv -------
 1350 Free Fall detected
-1375 Free Fall detected
-1375 Impact also deteced-SAME WINDOW
-1375 Inactivness, FALL CONFIRMED
-2100 Free Fall detected
-2125 Free Fall detected
-2125 Impact also deteced-SAME WINDOW
-2125 Inactivness, FALL CONFIRMED
-2150 Free Fall detected
-2150 Impact also deteced-SAME WINDOW
-2150 Inactivness, FALL CONFIRMED
+1350 Impact detected-SAME WINDOW, val: 2832.9019338639523
+1350 Inactivness, FALL CONFIRMED
+None
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/10fall_20getup_40fall_Log_2022_02_01_08_30_05.txt.csv -------
+300 Free Fall detected
+325 Free Fall detected
+325 Impact detected-SAME WINDOW, val: 3084.351929846638
+325 Inactivness, FALL CONFIRMED
+650 Free Fall detected
+650 Impact detected-SAME WINDOW, val: 4274.74997090067
+650 Inactivness, FALL CONFIRMED
+1075 Free Fall detected
+1100 Free Fall detected
+None
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/10fallbysittingonchair_20getup_40fall_Log_2022_02_01_08_27_22.txt.csv -------
+1100 Free Fall detected
+1100 Impact detected-SAME WINDOW, val: 3827.689851010167
+1100 Inactivness, FALL CONFIRMED
+1175 Free Fall detected
+1300 Free Fall detected
+1325 Free Fall detected
+None
+------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/10s_31sfallLog_2022_02_01_08_21_56.txt.csv -------
+550 Free Fall detected
+575 Free Fall detected
 None
