@@ -1,11 +1,11 @@
 ------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/25sfall_Log_2022_02_01_08_22_53.txt.csv -------
 50 Free Fall detected
 75 Free Fall detected
-75 Impact detected-SAME WINDOW, val: 2223.6811061518306
+75 Impact detected , val: 2223.6811061518306
 75 Inactivness, FALL CONFIRMED
 625 Free Fall detected
 650 Free Fall detected
-650 Impact detected-SAME WINDOW, val: 3393.6215635506915
+650 Impact detected , val: 3393.6215635506915
 650 Inactivness, FALL CONFIRMED
 None
 ------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/20fall-28up-50fall_Log_2022_02_01_08_25_24.txt.csv -------
@@ -14,46 +14,46 @@ None
 75 Free Fall detected
 100 Free Fall detected
 425 Free Fall detected
-425 Impact detected-SAME WINDOW, val: 2338.9932327327224
+425 Impact detected , val: 2338.9932327327224
 425 Inactivness not detected, but value: 596.888082649478
 450 Free Fall detected
-450 Impact detected-SAME WINDOW, val: 2338.9932327327224
+450 Impact detected , val: 2338.9932327327224
 450 Inactivness not detected, but value: 551.3311345724659
 725 Free Fall detected
 750 Free Fall detected
-750 Impact detected-SAME WINDOW, val: 2201.8862141523946
+750 Impact detected , val: 2201.8862141523946
 750 Inactivness, FALL CONFIRMED
 None
 ------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/20s_and_40s falls_Log_2022_02_01_08_19_44.txt.csv -------
 625 Free Fall detected
-625 Impact detected-SAME WINDOW, val: 3989.4675986703787
+625 Impact detected , val: 3989.4675986703787
 625 Inactivness not detected, but value: 362.10442100343687
 650 Free Fall detected
-650 Impact detected-SAME WINDOW, val: 4061.561414910847
+650 Impact detected , val: 4061.561414910847
 650 Inactivness, FALL CONFIRMED
 1075 Free Fall detected
-1075 Impact detected-SAME WINDOW, val: 6646.101156476702
+1075 Impact detected , val: 6646.101156476702
 1075 Inactivness, FALL CONFIRMED
 None
 ------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/22sfall_35sgotup_50fallagain_Log_2022_02_01_08_17_56.txt.csv -------
 1350 Free Fall detected
-1350 Impact detected-SAME WINDOW, val: 2832.9019338639523
+1350 Impact detected , val: 2832.9019338639523
 1350 Inactivness, FALL CONFIRMED
 None
 ------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/10fall_20getup_40fall_Log_2022_02_01_08_30_05.txt.csv -------
 300 Free Fall detected
 325 Free Fall detected
-325 Impact detected-SAME WINDOW, val: 3084.351929846638
+325 Impact detected , val: 3084.351929846638
 325 Inactivness, FALL CONFIRMED
 650 Free Fall detected
-650 Impact detected-SAME WINDOW, val: 4274.74997090067
+650 Impact detected , val: 4274.74997090067
 650 Inactivness, FALL CONFIRMED
 1075 Free Fall detected
 1100 Free Fall detected
 None
 ------ /Users/mohitbagaria/Fall-Detection-using-Accelerometer/test_datas/10fallbysittingonchair_20getup_40fall_Log_2022_02_01_08_27_22.txt.csv -------
 1100 Free Fall detected
-1100 Impact detected-SAME WINDOW, val: 3827.689851010167
+1100 Impact detected , val: 3827.689851010167
 1100 Inactivness, FALL CONFIRMED
 1175 Free Fall detected
 1300 Free Fall detected

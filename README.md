@@ -14,3 +14,6 @@ Three Thresholds considered--
 Min magnitude in a window -- For FREE FALL Detection (<120/95 mm per sec sq.)
 Maximum of Max min difference in a window (>2000 mm per sec sq.)
 Avg of max min difference of 30 windows, with 5 samples per window equivalent to 3s (<200 mm per sec sq.) 
+
+
+#### Test Data Link- https://drive.google.com/open?id=1JBGU5W2uq9rl8h7bJNt2lN4SjfZnFxmQ

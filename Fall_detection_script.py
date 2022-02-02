@@ -29,9 +29,9 @@ def detect_free_fall(df,threshold_tending_0,impact_activity,inactivity,win_size=
 
         if(min_mag<=threshold_tending_0):#fall detected
             print(i,"Free Fall detected")
-            #case where impact and free fall in same window
+            #Searching for impact
             if(diff_max_min>=impact_activity):#min max diff
-                print(i,"Impact detected-SAME WINDOW, val:",diff_max_min)
+                print(i,"Impact detected , val:",diff_max_min)
                 temp_size=5 #window size for calculating average
                 no_of_iterations = 30 #considering 2s [10*10==100 -> 25Hz in 1s]
                 sum_diff=0
@@ -43,20 +43,6 @@ def detect_free_fall(df,threshold_tending_0,impact_activity,inactivity,win_size=
                     faller=2
                 else:
                     print(i,"Inactivness not detected, but value:",avg_sum_diff)   
-            #Searching for Impact in next window
-            elif(extract_mean_max_min(df,i+overlap_win,overlap_win)[3]>=impact_activity):#min max diff
-                print(i,"Impact detected-NEXT WINDOW")
-                temp_size=5 #window size for calculating average
-                no_of_iterations = 30 #considering 2s [10*10==100 -> 25Hz in 1s]
-                sum_diff=0
-                for j in range(0,no_of_iterations+1):
-                    sum_diff+=extract_mean_max_min(df,i+win_size+ (j*temp_size),temp_size)[3]
-                avg_sum_diff = sum_diff/no_of_iterations
-                if(avg_sum_diff<=inactivity):
-                    print(i,"Inactivness, FALL CONFIRMED")
-                    faller=2
-                else:
-                    print(i,"Inactivness not detected, but value:",avg_sum_diff)    
 
 
 #Give parent folder path too data
