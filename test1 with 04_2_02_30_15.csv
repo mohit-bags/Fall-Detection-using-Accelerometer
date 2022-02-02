@@ -1,560 +1,560 @@
-Subject_ID,Activity,Trial_No,Description,Actual,Predicted,fall_index
-1,1,1,Falling forward on hands,Fall,Fall,60
-1,1,2,Falling forward on hands,Fall,Fall,30
-1,1,3,Falling forward on hands,Fall,Fall,15
-1,2,1,Falling forward on knees,Fall,No Fall,-1
-1,2,2,Falling forward on knees,Fall,Fall,30
-1,2,3,Falling forward on knees,Fall,No Fall,-1
-1,3,1,Falling backwards,Fall,No Fall,-1
-1,3,2,Falling backwards,Fall,No Fall,-1
-1,3,3,Falling backwards,Fall,No Fall,-1
-1,4,1,Falling sidewards,Fall,No Fall,-1
-1,4,2,Falling sidewards,Fall,Fall,15
-1,4,3,Falling sidewards,Fall,No Fall,-1
-1,5,1,Falling from chair,Fall,No Fall,-1
-1,5,2,Falling from chair,Fall,No Fall,-1
-1,5,3,Falling from chair,Fall,No Fall,-1
-1,6,1,walking,No Fall,No Fall,-1
-1,6,2,walking,No Fall,No Fall,-1
-1,6,3,walking,No Fall,No Fall,-1
-1,7,1,standing,No Fall,No Fall,-1
-1,7,2,standing,No Fall,Fall,495
-1,7,3,standing,No Fall,No Fall,-1
-1,8,1,sitting,No Fall,No Fall,-1
-1,8,2,sitting,No Fall,No Fall,-1
-1,8,3,sitting,No Fall,No Fall,-1
-1,9,1,picking up object,No Fall,No Fall,-1
-1,9,2,picking up object,No Fall,No Fall,-1
-1,9,3,picking up object,No Fall,No Fall,-1
-1,10,1,jumping,No Fall,No Fall,-1
-1,10,2,jumping,No Fall,No Fall,-1
-1,10,3,jumping,No Fall,No Fall,-1
-1,11,1,lying,No Fall,No Fall,-1
-1,11,2,lying,No Fall,No Fall,-1
-1,11,3,lying,No Fall,No Fall,-1
-2,1,1,Falling forward on hands,Fall,Fall,15
-2,1,2,Falling forward on hands,Fall,Fall,15
-2,1,3,Falling forward on hands,Fall,Fall,15
-2,2,1,Falling forward on knees,Fall,Fall,15
-2,2,2,Falling forward on knees,Fall,No Fall,-1
-2,2,3,Falling forward on knees,Fall,Fall,0
-2,3,1,Falling backwards,Fall,No Fall,-1
-2,3,2,Falling backwards,Fall,Fall,15
-2,3,3,Falling backwards,Fall,Fall,30
-2,4,1,Falling sidewards,Fall,Fall,15
-2,4,2,Falling sidewards,Fall,Fall,30
-2,4,3,Falling sidewards,Fall,Fall,15
-2,5,1,Falling from chair,Fall,No Fall,-1
-2,5,2,Falling from chair,Fall,No Fall,-1
-2,5,3,Falling from chair,Fall,No Fall,-1
-2,6,1,walking,No Fall,No Fall,-1
-2,6,2,walking,No Fall,No Fall,-1
-2,6,3,walking,No Fall,No Fall,-1
-2,7,1,standing,No Fall,No Fall,-1
-2,7,2,standing,No Fall,No Fall,-1
-2,7,3,standing,No Fall,No Fall,-1
-2,8,1,sitting,No Fall,No Fall,-1
-2,8,2,sitting,No Fall,No Fall,-1
-2,8,3,sitting,No Fall,No Fall,-1
-2,9,1,picking up object,No Fall,No Fall,-1
-2,9,2,picking up object,No Fall,No Fall,-1
-2,9,3,picking up object,No Fall,No Fall,-1
-2,10,1,jumping,No Fall,No Fall,-1
-2,10,2,jumping,No Fall,No Fall,-1
-2,10,3,jumping,No Fall,No Fall,-1
-2,11,1,lying,No Fall,No Fall,-1
-2,11,2,lying,No Fall,No Fall,-1
-2,11,3,lying,No Fall,No Fall,-1
-3,1,1,Falling forward on hands,Fall,No Fall,-1
-3,1,2,Falling forward on hands,Fall,No Fall,-1
-3,1,3,Falling forward on hands,Fall,No Fall,-1
-3,2,1,Falling forward on knees,Fall,No Fall,-1
-3,2,2,Falling forward on knees,Fall,Fall,15
-3,2,3,Falling forward on knees,Fall,No Fall,-1
-3,3,1,Falling backwards,Fall,Fall,15
-3,3,2,Falling backwards,Fall,No Fall,-1
-3,3,3,Falling backwards,Fall,Fall,15
-3,4,1,Falling sidewards,Fall,Fall,15
-3,4,2,Falling sidewards,Fall,No Fall,-1
-3,4,3,Falling sidewards,Fall,Fall,15
-3,5,1,Falling from chair,Fall,No Fall,-1
-3,5,2,Falling from chair,Fall,No Fall,-1
-3,5,3,Falling from chair,Fall,No Fall,-1
-3,6,1,walking,No Fall,No Fall,-1
-3,6,2,walking,No Fall,No Fall,-1
-3,6,3,walking,No Fall,No Fall,-1
-3,7,1,standing,No Fall,No Fall,-1
-3,7,2,standing,No Fall,No Fall,-1
-3,7,3,standing,No Fall,No Fall,-1
-3,8,1,sitting,No Fall,No Fall,-1
-3,8,2,sitting,No Fall,No Fall,-1
-3,8,3,sitting,No Fall,No Fall,-1
-3,9,1,picking up object,No Fall,No Fall,-1
-3,9,2,picking up object,No Fall,No Fall,-1
-3,9,3,picking up object,No Fall,No Fall,-1
-3,10,1,jumping,No Fall,No Fall,-1
-3,10,2,jumping,No Fall,No Fall,-1
-3,10,3,jumping,No Fall,No Fall,-1
-3,11,1,lying,No Fall,No Fall,-1
-3,11,2,lying,No Fall,No Fall,-1
-3,11,3,lying,No Fall,No Fall,-1
-4,1,1,Falling forward on hands,Fall,Fall,15
-4,1,2,Falling forward on hands,Fall,Fall,15
-4,1,3,Falling forward on hands,Fall,Fall,15
-4,2,1,Falling forward on knees,Fall,Fall,15
-4,2,2,Falling forward on knees,Fall,No Fall,-1
-4,2,3,Falling forward on knees,Fall,Fall,15
-4,3,1,Falling backwards,Fall,Fall,15
-4,3,2,Falling backwards,Fall,Fall,15
-4,3,3,Falling backwards,Fall,Fall,15
-4,4,1,Falling sidewards,Fall,Fall,15
-4,4,2,Falling sidewards,Fall,Fall,15
-4,4,3,Falling sidewards,Fall,Fall,15
-4,5,1,Falling from chair,Fall,No Fall,-1
-4,5,2,Falling from chair,Fall,Fall,15
-4,5,3,Falling from chair,Fall,Fall,15
-4,6,1,walking,No Fall,No Fall,-1
-4,6,2,walking,No Fall,No Fall,-1
-4,6,3,walking,No Fall,No Fall,-1
-4,7,1,standing,No Fall,No Fall,-1
-4,7,2,standing,No Fall,No Fall,-1
-4,7,3,standing,No Fall,No Fall,-1
-4,8,1,sitting,No Fall,No Fall,-1
-4,8,2,sitting,No Fall,No Fall,-1
-4,8,3,sitting,No Fall,No Fall,-1
-4,9,1,picking up object,No Fall,No Fall,-1
-4,9,2,picking up object,No Fall,No Fall,-1
-4,9,3,picking up object,No Fall,No Fall,-1
-4,10,1,jumping,No Fall,No Fall,-1
-4,10,2,jumping,No Fall,No Fall,-1
-4,10,3,jumping,No Fall,No Fall,-1
-4,11,1,lying,No Fall,No Fall,-1
-4,11,2,lying,No Fall,No Fall,-1
-4,11,3,lying,No Fall,No Fall,-1
-5,1,1,Falling forward on hands,Fall,No Fall,-1
-5,1,2,Falling forward on hands,Fall,No Fall,-1
-5,1,3,Falling forward on hands,Fall,No Fall,-1
-5,2,1,Falling forward on knees,Fall,No Fall,-1
-5,2,2,Falling forward on knees,Fall,Fall,15
-5,2,3,Falling forward on knees,Fall,Fall,15
-5,3,1,Falling backwards,Fall,Fall,30
-5,3,2,Falling backwards,Fall,Fall,15
-5,3,3,Falling backwards,Fall,No Fall,-1
-5,4,1,Falling sidewards,Fall,No Fall,-1
-5,4,2,Falling sidewards,Fall,No Fall,-1
-5,4,3,Falling sidewards,Fall,No Fall,-1
-5,5,1,Falling from chair,Fall,No Fall,-1
-5,5,2,Falling from chair,Fall,No Fall,-1
-5,5,3,Falling from chair,Fall,No Fall,-1
-5,6,1,walking,No Fall,No Fall,-1
-5,6,2,walking,No Fall,No Fall,-1
-5,6,3,walking,No Fall,No Fall,-1
-5,7,1,standing,No Fall,No Fall,-1
-5,7,2,standing,No Fall,No Fall,-1
-5,7,3,standing,No Fall,No Fall,-1
-5,8,1,sitting,No Fall,No Fall,-1
-5,8,2,sitting,No Fall,No Fall,-1
-5,8,3,sitting,No Fall,No Fall,-1
-5,9,1,picking up object,No Fall,No Fall,-1
-5,9,2,picking up object,No Fall,No Fall,-1
-5,9,3,picking up object,No Fall,Fall,0
-5,10,1,jumping,No Fall,No Fall,-1
-5,10,2,jumping,No Fall,No Fall,-1
-5,10,3,jumping,No Fall,No Fall,-1
-5,11,1,lying,No Fall,No Fall,-1
-5,11,2,lying,No Fall,No Fall,-1
-5,11,3,lying,No Fall,No Fall,-1
-6,1,1,Falling forward on hands,Fall,Fall,15
-6,1,2,Falling forward on hands,Fall,Fall,15
-6,1,3,Falling forward on hands,Fall,No Fall,-1
-6,2,1,Falling forward on knees,Fall,No Fall,-1
-6,2,2,Falling forward on knees,Fall,No Fall,-1
-6,2,3,Falling forward on knees,Fall,Fall,15
-6,3,1,Falling backwards,Fall,No Fall,-1
-6,3,2,Falling backwards,Fall,No Fall,-1
-6,3,3,Falling backwards,Fall,No Fall,-1
-6,4,1,Falling sidewards,Fall,No Fall,-1
-6,4,2,Falling sidewards,Fall,No Fall,-1
-6,4,3,Falling sidewards,Fall,No Fall,-1
-6,5,1,Falling from chair,Fall,No Fall,-1
-6,5,2,Falling from chair,Fall,No Fall,-1
-6,5,3,Falling from chair,Fall,No Fall,-1
-6,6,1,walking,No Fall,No Fall,-1
-6,6,2,walking,No Fall,No Fall,-1
-6,6,3,walking,No Fall,No Fall,-1
-6,7,1,standing,No Fall,No Fall,-1
-6,7,2,standing,No Fall,No Fall,-1
-6,7,3,standing,No Fall,No Fall,-1
-6,8,1,sitting,No Fall,No Fall,-1
-6,8,2,sitting,No Fall,No Fall,-1
-6,8,3,sitting,No Fall,No Fall,-1
-6,9,1,picking up object,No Fall,No Fall,-1
-6,9,2,picking up object,No Fall,No Fall,-1
-6,9,3,picking up object,No Fall,No Fall,-1
-6,10,1,jumping,No Fall,No Fall,-1
-6,10,2,jumping,No Fall,No Fall,-1
-6,10,3,jumping,No Fall,No Fall,-1
-6,11,1,lying,No Fall,No Fall,-1
-6,11,2,lying,No Fall,No Fall,-1
-6,11,3,lying,No Fall,No Fall,-1
-7,1,1,Falling forward on hands,Fall,No Fall,-1
-7,1,2,Falling forward on hands,Fall,Fall,15
-7,1,3,Falling forward on hands,Fall,Fall,30
-7,2,1,Falling forward on knees,Fall,Fall,0
-7,2,2,Falling forward on knees,Fall,Fall,0
-7,2,3,Falling forward on knees,Fall,Fall,0
-7,3,1,Falling backwards,Fall,Fall,15
-7,3,2,Falling backwards,Fall,Fall,30
-7,3,3,Falling backwards,Fall,Fall,15
-7,4,1,Falling sidewards,Fall,Fall,0
-7,4,2,Falling sidewards,Fall,No Fall,-1
-7,4,3,Falling sidewards,Fall,No Fall,-1
-7,5,1,Falling from chair,Fall,No Fall,-1
-7,5,2,Falling from chair,Fall,Fall,15
-7,5,3,Falling from chair,Fall,No Fall,-1
-7,6,1,walking,No Fall,No Fall,-1
-7,6,2,walking,No Fall,No Fall,-1
-7,6,3,walking,No Fall,No Fall,-1
-7,7,1,standing,No Fall,No Fall,-1
-7,7,2,standing,No Fall,No Fall,-1
-7,7,3,standing,No Fall,No Fall,-1
-7,8,1,sitting,No Fall,No Fall,-1
-7,8,2,sitting,No Fall,No Fall,-1
-7,8,3,sitting,No Fall,No Fall,-1
-7,9,1,picking up object,No Fall,No Fall,-1
-7,9,2,picking up object,No Fall,No Fall,-1
-7,9,3,picking up object,No Fall,No Fall,-1
-7,10,1,jumping,No Fall,No Fall,-1
-7,10,2,jumping,No Fall,No Fall,-1
-7,10,3,jumping,No Fall,No Fall,-1
-7,11,1,lying,No Fall,No Fall,-1
-7,11,2,lying,No Fall,No Fall,-1
-7,11,3,lying,No Fall,No Fall,-1
-8,1,1,Falling forward on hands,Fall,No Fall,-1
-8,1,2,Falling forward on hands,Fall,Fall,30
-8,1,3,Falling forward on hands,Fall,No Fall,-1
-8,2,1,Falling forward on knees,Fall,No Fall,-1
-8,2,2,Falling forward on knees,Fall,No Fall,-1
-8,2,3,Falling forward on knees,Fall,Fall,30
-8,3,1,Falling backwards,Fall,No Fall,-1
-8,3,2,Falling backwards,Fall,No Fall,-1
-8,3,3,Falling backwards,Fall,Fall,15
-8,4,1,Falling sidewards,Fall,No Fall,-1
-8,4,2,Falling sidewards,Fall,No Fall,-1
-8,4,3,Falling sidewards,Fall,Fall,45
-8,5,1,Falling from chair,Fall,Fall,30
-8,5,2,Falling from chair,Fall,No Fall,-1
-8,5,3,Falling from chair,Fall,No Fall,-1
-8,6,1,walking,No Fall,No Fall,-1
-8,6,2,walking,No Fall,No Fall,-1
-8,6,3,walking,No Fall,No Fall,-1
-8,7,1,standing,No Fall,No Fall,-1
-8,7,2,standing,No Fall,No Fall,-1
-8,7,3,standing,No Fall,No Fall,-1
-8,8,1,sitting,No Fall,No Fall,-1
-8,8,2,sitting,No Fall,No Fall,-1
-8,8,3,sitting,No Fall,No Fall,-1
-8,9,1,picking up object,No Fall,No Fall,-1
-8,9,2,picking up object,No Fall,No Fall,-1
-8,9,3,picking up object,No Fall,No Fall,-1
-8,10,1,jumping,No Fall,No Fall,-1
-8,10,2,jumping,No Fall,No Fall,-1
-8,10,3,jumping,No Fall,No Fall,-1
-8,11,1,lying,No Fall,No Fall,-1
-9,1,1,Falling forward on hands,Fall,No Fall,-1
-9,1,2,Falling forward on hands,Fall,No Fall,-1
-9,1,3,Falling forward on hands,Fall,No Fall,-1
-9,2,1,Falling forward on knees,Fall,No Fall,-1
-9,2,2,Falling forward on knees,Fall,No Fall,-1
-9,2,3,Falling forward on knees,Fall,No Fall,-1
-9,3,1,Falling backwards,Fall,No Fall,-1
-9,3,2,Falling backwards,Fall,No Fall,-1
-9,3,3,Falling backwards,Fall,No Fall,-1
-9,4,1,Falling sidewards,Fall,No Fall,-1
-9,4,2,Falling sidewards,Fall,No Fall,-1
-9,4,3,Falling sidewards,Fall,No Fall,-1
-9,5,1,Falling from chair,Fall,No Fall,-1
-9,5,2,Falling from chair,Fall,No Fall,-1
-9,5,3,Falling from chair,Fall,No Fall,-1
-9,6,1,walking,No Fall,No Fall,-1
-9,6,2,walking,No Fall,No Fall,-1
-9,6,3,walking,No Fall,No Fall,-1
-9,7,1,standing,No Fall,No Fall,-1
-9,7,2,standing,No Fall,No Fall,-1
-9,7,3,standing,No Fall,No Fall,-1
-9,8,1,sitting,No Fall,No Fall,-1
-9,8,2,sitting,No Fall,No Fall,-1
-9,8,3,sitting,No Fall,No Fall,-1
-9,9,1,picking up object,No Fall,No Fall,-1
-9,9,2,picking up object,No Fall,No Fall,-1
-9,9,3,picking up object,No Fall,No Fall,-1
-9,10,1,jumping,No Fall,No Fall,-1
-9,10,2,jumping,No Fall,Fall,405
-9,10,3,jumping,No Fall,Fall,435
-9,11,1,lying,No Fall,No Fall,-1
-9,11,2,lying,No Fall,No Fall,-1
-9,11,3,lying,No Fall,No Fall,-1
-10,1,1,Falling forward on hands,Fall,Fall,15
-10,1,2,Falling forward on hands,Fall,Fall,0
-10,1,3,Falling forward on hands,Fall,Fall,0
-10,2,1,Falling forward on knees,Fall,Fall,0
-10,2,2,Falling forward on knees,Fall,Fall,0
-10,2,3,Falling forward on knees,Fall,No Fall,-1
-10,3,1,Falling backwards,Fall,No Fall,-1
-10,3,2,Falling backwards,Fall,No Fall,-1
-10,3,3,Falling backwards,Fall,No Fall,-1
-10,4,1,Falling sidewards,Fall,No Fall,-1
-10,4,2,Falling sidewards,Fall,No Fall,-1
-10,4,3,Falling sidewards,Fall,No Fall,-1
-10,5,1,Falling from chair,Fall,No Fall,-1
-10,5,2,Falling from chair,Fall,No Fall,-1
-10,5,3,Falling from chair,Fall,No Fall,-1
-10,6,1,walking,No Fall,No Fall,-1
-10,6,2,walking,No Fall,No Fall,-1
-10,6,3,walking,No Fall,No Fall,-1
-10,7,1,standing,No Fall,No Fall,-1
-10,7,2,standing,No Fall,No Fall,-1
-10,7,3,standing,No Fall,No Fall,-1
-10,8,1,sitting,No Fall,No Fall,-1
-10,8,2,sitting,No Fall,No Fall,-1
-10,8,3,sitting,No Fall,No Fall,-1
-10,9,1,picking up object,No Fall,Fall,0
-10,9,2,picking up object,No Fall,No Fall,-1
-10,9,3,picking up object,No Fall,No Fall,-1
-10,10,1,jumping,No Fall,No Fall,-1
-10,10,2,jumping,No Fall,No Fall,-1
-10,10,3,jumping,No Fall,No Fall,-1
-10,11,1,lying,No Fall,No Fall,-1
-10,11,2,lying,No Fall,No Fall,-1
-10,11,3,lying,No Fall,No Fall,-1
-11,1,1,Falling forward on hands,Fall,Fall,0
-11,1,2,Falling forward on hands,Fall,Fall,15
-11,1,3,Falling forward on hands,Fall,No Fall,-1
-11,2,1,Falling forward on knees,Fall,No Fall,-1
-11,2,2,Falling forward on knees,Fall,No Fall,-1
-11,2,3,Falling forward on knees,Fall,No Fall,-1
-11,3,1,Falling backwards,Fall,No Fall,-1
-11,3,2,Falling backwards,Fall,No Fall,-1
-11,3,3,Falling backwards,Fall,No Fall,-1
-11,4,1,Falling sidewards,Fall,No Fall,-1
-11,4,2,Falling sidewards,Fall,No Fall,-1
-11,4,3,Falling sidewards,Fall,No Fall,-1
-11,5,1,Falling from chair,Fall,Fall,15
-11,5,2,Falling from chair,Fall,No Fall,-1
-11,5,3,Falling from chair,Fall,No Fall,-1
-11,6,1,walking,No Fall,No Fall,-1
-11,6,2,walking,No Fall,No Fall,-1
-11,6,3,walking,No Fall,No Fall,-1
-11,7,1,standing,No Fall,No Fall,-1
-11,7,2,standing,No Fall,No Fall,-1
-11,7,3,standing,No Fall,No Fall,-1
-11,8,1,sitting,No Fall,No Fall,-1
-11,8,2,sitting,No Fall,No Fall,-1
-11,8,3,sitting,No Fall,No Fall,-1
-11,9,1,picking up object,No Fall,No Fall,-1
-11,9,2,picking up object,No Fall,No Fall,-1
-11,9,3,picking up object,No Fall,No Fall,-1
-11,10,1,jumping,No Fall,No Fall,-1
-11,10,2,jumping,No Fall,No Fall,-1
-11,10,3,jumping,No Fall,No Fall,-1
-11,11,1,lying,No Fall,No Fall,-1
-11,11,2,lying,No Fall,No Fall,-1
-11,11,3,lying,No Fall,No Fall,-1
-12,1,1,Falling forward on hands,Fall,Fall,15
-12,1,2,Falling forward on hands,Fall,No Fall,-1
-12,1,3,Falling forward on hands,Fall,No Fall,-1
-12,2,1,Falling forward on knees,Fall,Fall,0
-12,2,2,Falling forward on knees,Fall,No Fall,-1
-12,2,3,Falling forward on knees,Fall,Fall,15
-12,3,1,Falling backwards,Fall,Fall,0
-12,3,2,Falling backwards,Fall,Fall,0
-12,3,3,Falling backwards,Fall,No Fall,-1
-12,4,1,Falling sidewards,Fall,No Fall,-1
-12,4,2,Falling sidewards,Fall,Fall,0
-12,4,3,Falling sidewards,Fall,Fall,0
-12,5,1,Falling from chair,Fall,No Fall,-1
-12,5,2,Falling from chair,Fall,No Fall,-1
-12,5,3,Falling from chair,Fall,Fall,15
-12,6,1,walking,No Fall,No Fall,-1
-12,6,2,walking,No Fall,No Fall,-1
-12,6,3,walking,No Fall,No Fall,-1
-12,7,1,standing,No Fall,No Fall,-1
-12,7,2,standing,No Fall,No Fall,-1
-12,7,3,standing,No Fall,No Fall,-1
-12,8,1,sitting,No Fall,No Fall,-1
-12,8,2,sitting,No Fall,No Fall,-1
-12,8,3,sitting,No Fall,No Fall,-1
-12,9,1,picking up object,No Fall,No Fall,-1
-12,9,2,picking up object,No Fall,No Fall,-1
-12,9,3,picking up object,No Fall,No Fall,-1
-12,10,1,jumping,No Fall,No Fall,-1
-12,10,2,jumping,No Fall,No Fall,-1
-12,10,3,jumping,No Fall,No Fall,-1
-12,11,1,lying,No Fall,No Fall,-1
-12,11,2,lying,No Fall,No Fall,-1
-12,11,3,lying,No Fall,No Fall,-1
-13,1,1,Falling forward on hands,Fall,No Fall,-1
-13,1,2,Falling forward on hands,Fall,Fall,75
-13,1,3,Falling forward on hands,Fall,Fall,15
-13,2,1,Falling forward on knees,Fall,Fall,15
-13,2,2,Falling forward on knees,Fall,No Fall,-1
-13,2,3,Falling forward on knees,Fall,No Fall,-1
-13,3,1,Falling backwards,Fall,No Fall,-1
-13,3,2,Falling backwards,Fall,No Fall,-1
-13,3,3,Falling backwards,Fall,No Fall,-1
-13,4,1,Falling sidewards,Fall,Fall,15
-13,4,2,Falling sidewards,Fall,Fall,0
-13,4,3,Falling sidewards,Fall,Fall,15
-13,5,1,Falling from chair,Fall,No Fall,-1
-13,5,2,Falling from chair,Fall,Fall,15
-13,5,3,Falling from chair,Fall,No Fall,-1
-13,6,1,walking,No Fall,No Fall,-1
-13,6,2,walking,No Fall,No Fall,-1
-13,6,3,walking,No Fall,No Fall,-1
-13,7,1,standing,No Fall,No Fall,-1
-13,7,2,standing,No Fall,No Fall,-1
-13,7,3,standing,No Fall,No Fall,-1
-13,8,1,sitting,No Fall,No Fall,-1
-13,8,2,sitting,No Fall,No Fall,-1
-13,8,3,sitting,No Fall,No Fall,-1
-13,9,1,picking up object,No Fall,No Fall,-1
-13,9,2,picking up object,No Fall,No Fall,-1
-13,9,3,picking up object,No Fall,No Fall,-1
-13,10,1,jumping,No Fall,No Fall,-1
-13,10,2,jumping,No Fall,No Fall,-1
-13,10,3,jumping,No Fall,No Fall,-1
-13,11,1,lying,No Fall,No Fall,-1
-13,11,2,lying,No Fall,No Fall,-1
-13,11,3,lying,No Fall,No Fall,-1
-14,1,1,Falling forward on hands,Fall,No Fall,-1
-14,1,2,Falling forward on hands,Fall,Fall,45
-14,1,3,Falling forward on hands,Fall,No Fall,-1
-14,2,1,Falling forward on knees,Fall,No Fall,-1
-14,2,2,Falling forward on knees,Fall,No Fall,-1
-14,2,3,Falling forward on knees,Fall,Fall,15
-14,3,1,Falling backwards,Fall,No Fall,-1
-14,3,2,Falling backwards,Fall,No Fall,-1
-14,3,3,Falling backwards,Fall,No Fall,-1
-14,4,1,Falling sidewards,Fall,Fall,15
-14,4,2,Falling sidewards,Fall,No Fall,-1
-14,4,3,Falling sidewards,Fall,No Fall,-1
-14,5,1,Falling from chair,Fall,No Fall,-1
-14,5,2,Falling from chair,Fall,No Fall,-1
-14,5,3,Falling from chair,Fall,No Fall,-1
-14,6,1,walking,No Fall,No Fall,-1
-14,6,2,walking,No Fall,No Fall,-1
-14,6,3,walking,No Fall,No Fall,-1
-14,7,1,standing,No Fall,Fall,720
-14,7,2,standing,No Fall,No Fall,-1
-14,7,3,standing,No Fall,No Fall,-1
-14,8,1,sitting,No Fall,No Fall,-1
-14,8,2,sitting,No Fall,No Fall,-1
-14,8,3,sitting,No Fall,No Fall,-1
-14,9,1,picking up object,No Fall,No Fall,-1
-14,9,2,picking up object,No Fall,No Fall,-1
-14,9,3,picking up object,No Fall,No Fall,-1
-14,10,1,jumping,No Fall,No Fall,-1
-14,10,2,jumping,No Fall,No Fall,-1
-14,10,3,jumping,No Fall,No Fall,-1
-14,11,1,lying,No Fall,Fall,0
-14,11,2,lying,No Fall,No Fall,-1
-14,11,3,lying,No Fall,No Fall,-1
-15,1,1,Falling forward on hands,Fall,Fall,0
-15,1,2,Falling forward on hands,Fall,Fall,0
-15,1,3,Falling forward on hands,Fall,No Fall,-1
-15,2,1,Falling forward on knees,Fall,No Fall,-1
-15,2,2,Falling forward on knees,Fall,No Fall,-1
-15,2,3,Falling forward on knees,Fall,Fall,0
-15,3,1,Falling backwards,Fall,Fall,15
-15,3,2,Falling backwards,Fall,Fall,0
-15,3,3,Falling backwards,Fall,No Fall,-1
-15,4,1,Falling sidewards,Fall,No Fall,-1
-15,4,2,Falling sidewards,Fall,No Fall,-1
-15,4,3,Falling sidewards,Fall,No Fall,-1
-15,5,1,Falling from chair,Fall,No Fall,-1
-15,5,2,Falling from chair,Fall,No Fall,-1
-15,5,3,Falling from chair,Fall,No Fall,-1
-15,6,1,walking,No Fall,No Fall,-1
-15,6,2,walking,No Fall,No Fall,-1
-15,6,3,walking,No Fall,No Fall,-1
-15,7,1,standing,No Fall,No Fall,-1
-15,7,2,standing,No Fall,No Fall,-1
-15,7,3,standing,No Fall,No Fall,-1
-15,8,1,sitting,No Fall,No Fall,-1
-15,8,2,sitting,No Fall,No Fall,-1
-15,8,3,sitting,No Fall,No Fall,-1
-15,9,1,picking up object,No Fall,Fall,105
-15,9,2,picking up object,No Fall,No Fall,-1
-15,9,3,picking up object,No Fall,No Fall,-1
-15,10,1,jumping,No Fall,No Fall,-1
-15,10,2,jumping,No Fall,No Fall,-1
-15,10,3,jumping,No Fall,No Fall,-1
-15,11,1,lying,No Fall,No Fall,-1
-15,11,2,lying,No Fall,No Fall,-1
-15,11,3,lying,No Fall,No Fall,-1
-16,1,1,Falling forward on hands,Fall,Fall,15
-16,1,2,Falling forward on hands,Fall,No Fall,-1
-16,1,3,Falling forward on hands,Fall,No Fall,-1
-16,2,1,Falling forward on knees,Fall,Fall,0
-16,2,2,Falling forward on knees,Fall,No Fall,-1
-16,2,3,Falling forward on knees,Fall,Fall,0
-16,3,1,Falling backwards,Fall,Fall,0
-16,3,2,Falling backwards,Fall,Fall,15
-16,3,3,Falling backwards,Fall,Fall,15
-16,4,1,Falling sidewards,Fall,Fall,0
-16,4,2,Falling sidewards,Fall,No Fall,-1
-16,4,3,Falling sidewards,Fall,No Fall,-1
-16,5,1,Falling from chair,Fall,Fall,15
-16,5,2,Falling from chair,Fall,No Fall,-1
-16,5,3,Falling from chair,Fall,No Fall,-1
-16,6,1,walking,No Fall,No Fall,-1
-16,6,2,walking,No Fall,No Fall,-1
-16,6,3,walking,No Fall,No Fall,-1
-16,7,1,standing,No Fall,No Fall,-1
-16,7,2,standing,No Fall,No Fall,-1
-16,7,3,standing,No Fall,No Fall,-1
-16,8,1,sitting,No Fall,No Fall,-1
-16,8,2,sitting,No Fall,No Fall,-1
-16,8,3,sitting,No Fall,No Fall,-1
-16,9,1,picking up object,No Fall,No Fall,-1
-16,9,2,picking up object,No Fall,No Fall,-1
-16,9,3,picking up object,No Fall,No Fall,-1
-16,10,1,jumping,No Fall,No Fall,-1
-16,10,2,jumping,No Fall,No Fall,-1
-16,10,3,jumping,No Fall,No Fall,-1
-16,11,1,lying,No Fall,No Fall,-1
-16,11,2,lying,No Fall,No Fall,-1
-16,11,3,lying,No Fall,No Fall,-1
-17,1,1,Falling forward on hands,Fall,No Fall,-1
-17,1,2,Falling forward on hands,Fall,No Fall,-1
-17,1,3,Falling forward on hands,Fall,No Fall,-1
-17,2,1,Falling forward on knees,Fall,Fall,0
-17,2,2,Falling forward on knees,Fall,No Fall,-1
-17,2,3,Falling forward on knees,Fall,No Fall,-1
-17,3,1,Falling backwards,Fall,Fall,15
-17,3,2,Falling backwards,Fall,No Fall,-1
-17,3,3,Falling backwards,Fall,Fall,30
-17,4,1,Falling sidewards,Fall,No Fall,-1
-17,4,2,Falling sidewards,Fall,No Fall,-1
-17,4,3,Falling sidewards,Fall,No Fall,-1
-17,5,1,Falling from chair,Fall,No Fall,-1
-17,5,2,Falling from chair,Fall,Fall,15
-17,5,3,Falling from chair,Fall,No Fall,-1
-17,6,1,walking,No Fall,No Fall,-1
-17,6,2,walking,No Fall,No Fall,-1
-17,6,3,walking,No Fall,No Fall,-1
-17,7,1,standing,No Fall,No Fall,-1
-17,7,2,standing,No Fall,No Fall,-1
-17,7,3,standing,No Fall,No Fall,-1
-17,8,1,sitting,No Fall,No Fall,-1
-17,8,2,sitting,No Fall,No Fall,-1
-17,8,3,sitting,No Fall,No Fall,-1
-17,9,1,picking up object,No Fall,No Fall,-1
-17,9,2,picking up object,No Fall,No Fall,-1
-17,9,3,picking up object,No Fall,No Fall,-1
-17,10,1,jumping,No Fall,No Fall,-1
-17,10,2,jumping,No Fall,No Fall,-1
-17,10,3,jumping,No Fall,No Fall,-1
-17,11,1,lying,No Fall,No Fall,-1
-17,11,2,lying,No Fall,No Fall,-1
-17,11,3,lying,No Fall,No Fall,-1
+Subject_ID,Activity,Trial_No,Description,Actual,Predicted,fall_index,Free_fall_val,Impact_val,Inactiveness
+1,1,1,Falling forward on hands,Fall,Fall,60,0.325,4.674,0.126
+1,1,2,Falling forward on hands,Fall,Fall,30,0.095,4.388,0.099
+1,1,3,Falling forward on hands,Fall,Fall,15,0.287,3.037,0.137
+1,2,1,Falling forward on knees,Fall,No Fall,,,,
+1,2,2,Falling forward on knees,Fall,Fall,30,0.183,2.946,0.019
+1,2,3,Falling forward on knees,Fall,No Fall,,,,
+1,3,1,Falling backwards,Fall,No Fall,,,,
+1,3,2,Falling backwards,Fall,No Fall,,,,
+1,3,3,Falling backwards,Fall,No Fall,,,,
+1,4,1,Falling sidewards,Fall,No Fall,,,,
+1,4,2,Falling sidewards,Fall,Fall,15,0.369,4.805,0.081
+1,4,3,Falling sidewards,Fall,No Fall,,,,
+1,5,1,Falling from chair,Fall,No Fall,,,,
+1,5,2,Falling from chair,Fall,No Fall,,,,
+1,5,3,Falling from chair,Fall,No Fall,,,,
+1,6,1,walking,No Fall,No Fall,,,,
+1,6,2,walking,No Fall,No Fall,,,,
+1,6,3,walking,No Fall,No Fall,,,,
+1,7,1,standing,No Fall,No Fall,,,,
+1,7,2,standing,No Fall,Fall,495,0.318,2.305,0.111
+1,7,3,standing,No Fall,No Fall,,,,
+1,8,1,sitting,No Fall,No Fall,,,,
+1,8,2,sitting,No Fall,No Fall,,,,
+1,8,3,sitting,No Fall,No Fall,,,,
+1,9,1,picking up object,No Fall,No Fall,,,,
+1,9,2,picking up object,No Fall,No Fall,,,,
+1,9,3,picking up object,No Fall,No Fall,,,,
+1,10,1,jumping,No Fall,No Fall,,,,
+1,10,2,jumping,No Fall,No Fall,,,,
+1,10,3,jumping,No Fall,No Fall,,,,
+1,11,1,lying,No Fall,No Fall,,,,
+1,11,2,lying,No Fall,No Fall,,,,
+1,11,3,lying,No Fall,No Fall,,,,
+2,1,1,Falling forward on hands,Fall,Fall,15,0.329,3.899,0.027
+2,1,2,Falling forward on hands,Fall,Fall,15,0.34,5.759,0.033
+2,1,3,Falling forward on hands,Fall,Fall,15,0.128,5.57,0.026
+2,2,1,Falling forward on knees,Fall,Fall,15,0.136,3.977,0.017
+2,2,2,Falling forward on knees,Fall,No Fall,,,,
+2,2,3,Falling forward on knees,Fall,Fall,0,0.149,3.671,0.051
+2,3,1,Falling backwards,Fall,No Fall,,,,
+2,3,2,Falling backwards,Fall,Fall,15,0.378,4.994,0.104
+2,3,3,Falling backwards,Fall,Fall,30,0.23,3.015,0.06
+2,4,1,Falling sidewards,Fall,Fall,15,0.315,4.365,0.027
+2,4,2,Falling sidewards,Fall,Fall,30,0.204,4.101,0.089
+2,4,3,Falling sidewards,Fall,Fall,15,0.282,4.441,0.021
+2,5,1,Falling from chair,Fall,No Fall,,,,
+2,5,2,Falling from chair,Fall,No Fall,,,,
+2,5,3,Falling from chair,Fall,No Fall,,,,
+2,6,1,walking,No Fall,No Fall,,,,
+2,6,2,walking,No Fall,No Fall,,,,
+2,6,3,walking,No Fall,No Fall,,,,
+2,7,1,standing,No Fall,No Fall,,,,
+2,7,2,standing,No Fall,No Fall,,,,
+2,7,3,standing,No Fall,No Fall,,,,
+2,8,1,sitting,No Fall,No Fall,,,,
+2,8,2,sitting,No Fall,No Fall,,,,
+2,8,3,sitting,No Fall,No Fall,,,,
+2,9,1,picking up object,No Fall,No Fall,,,,
+2,9,2,picking up object,No Fall,No Fall,,,,
+2,9,3,picking up object,No Fall,No Fall,,,,
+2,10,1,jumping,No Fall,No Fall,,,,
+2,10,2,jumping,No Fall,No Fall,,,,
+2,10,3,jumping,No Fall,No Fall,,,,
+2,11,1,lying,No Fall,No Fall,,,,
+2,11,2,lying,No Fall,No Fall,,,,
+2,11,3,lying,No Fall,No Fall,,,,
+3,1,1,Falling forward on hands,Fall,No Fall,,,,
+3,1,2,Falling forward on hands,Fall,No Fall,,,,
+3,1,3,Falling forward on hands,Fall,No Fall,,,,
+3,2,1,Falling forward on knees,Fall,No Fall,,,,
+3,2,2,Falling forward on knees,Fall,Fall,15,0.233,2.504,0.128
+3,2,3,Falling forward on knees,Fall,No Fall,,,,
+3,3,1,Falling backwards,Fall,Fall,15,0.236,5.242,0.1
+3,3,2,Falling backwards,Fall,No Fall,,,,
+3,3,3,Falling backwards,Fall,Fall,15,0.367,3.119,0.095
+3,4,1,Falling sidewards,Fall,Fall,15,0.38,2.177,0.165
+3,4,2,Falling sidewards,Fall,No Fall,,,,
+3,4,3,Falling sidewards,Fall,Fall,15,0.171,2.358,0.088
+3,5,1,Falling from chair,Fall,No Fall,,,,
+3,5,2,Falling from chair,Fall,No Fall,,,,
+3,5,3,Falling from chair,Fall,No Fall,,,,
+3,6,1,walking,No Fall,No Fall,,,,
+3,6,2,walking,No Fall,No Fall,,,,
+3,6,3,walking,No Fall,No Fall,,,,
+3,7,1,standing,No Fall,No Fall,,,,
+3,7,2,standing,No Fall,No Fall,,,,
+3,7,3,standing,No Fall,No Fall,,,,
+3,8,1,sitting,No Fall,No Fall,,,,
+3,8,2,sitting,No Fall,No Fall,,,,
+3,8,3,sitting,No Fall,No Fall,,,,
+3,9,1,picking up object,No Fall,No Fall,,,,
+3,9,2,picking up object,No Fall,No Fall,,,,
+3,9,3,picking up object,No Fall,No Fall,,,,
+3,10,1,jumping,No Fall,No Fall,,,,
+3,10,2,jumping,No Fall,No Fall,,,,
+3,10,3,jumping,No Fall,No Fall,,,,
+3,11,1,lying,No Fall,No Fall,,,,
+3,11,2,lying,No Fall,No Fall,,,,
+3,11,3,lying,No Fall,No Fall,,,,
+4,1,1,Falling forward on hands,Fall,Fall,15,0.208,5.495,0.113
+4,1,2,Falling forward on hands,Fall,Fall,15,0.357,4.739,0.041
+4,1,3,Falling forward on hands,Fall,Fall,15,0.378,3.376,0.029
+4,2,1,Falling forward on knees,Fall,Fall,15,0.352,3.687,0.017
+4,2,2,Falling forward on knees,Fall,No Fall,,,,
+4,2,3,Falling forward on knees,Fall,Fall,15,0.374,2.622,0.021
+4,3,1,Falling backwards,Fall,Fall,15,0.266,5.814,0.064
+4,3,2,Falling backwards,Fall,Fall,15,0.366,9.371,0.199
+4,3,3,Falling backwards,Fall,Fall,15,0.346,4.352,0.057
+4,4,1,Falling sidewards,Fall,Fall,15,0.184,3.074,0.086
+4,4,2,Falling sidewards,Fall,Fall,15,0.193,2.772,0.051
+4,4,3,Falling sidewards,Fall,Fall,15,0.266,3.804,0.059
+4,5,1,Falling from chair,Fall,No Fall,,,,
+4,5,2,Falling from chair,Fall,Fall,15,0.38,6.36,0.075
+4,5,3,Falling from chair,Fall,Fall,15,0.154,5.416,0.041
+4,6,1,walking,No Fall,No Fall,,,,
+4,6,2,walking,No Fall,No Fall,,,,
+4,6,3,walking,No Fall,No Fall,,,,
+4,7,1,standing,No Fall,No Fall,,,,
+4,7,2,standing,No Fall,No Fall,,,,
+4,7,3,standing,No Fall,No Fall,,,,
+4,8,1,sitting,No Fall,No Fall,,,,
+4,8,2,sitting,No Fall,No Fall,,,,
+4,8,3,sitting,No Fall,No Fall,,,,
+4,9,1,picking up object,No Fall,No Fall,,,,
+4,9,2,picking up object,No Fall,No Fall,,,,
+4,9,3,picking up object,No Fall,No Fall,,,,
+4,10,1,jumping,No Fall,No Fall,,,,
+4,10,2,jumping,No Fall,No Fall,,,,
+4,10,3,jumping,No Fall,No Fall,,,,
+4,11,1,lying,No Fall,No Fall,,,,
+4,11,2,lying,No Fall,No Fall,,,,
+4,11,3,lying,No Fall,No Fall,,,,
+5,1,1,Falling forward on hands,Fall,No Fall,,,,
+5,1,2,Falling forward on hands,Fall,No Fall,,,,
+5,1,3,Falling forward on hands,Fall,No Fall,,,,
+5,2,1,Falling forward on knees,Fall,No Fall,,,,
+5,2,2,Falling forward on knees,Fall,Fall,15,0.197,3.372,0.103
+5,2,3,Falling forward on knees,Fall,Fall,15,0.151,3.331,0.104
+5,3,1,Falling backwards,Fall,Fall,30,0.393,2.992,0.06
+5,3,2,Falling backwards,Fall,Fall,15,0.332,2.827,0.072
+5,3,3,Falling backwards,Fall,No Fall,,,,
+5,4,1,Falling sidewards,Fall,No Fall,,,,
+5,4,2,Falling sidewards,Fall,No Fall,,,,
+5,4,3,Falling sidewards,Fall,No Fall,,,,
+5,5,1,Falling from chair,Fall,No Fall,,,,
+5,5,2,Falling from chair,Fall,No Fall,,,,
+5,5,3,Falling from chair,Fall,No Fall,,,,
+5,6,1,walking,No Fall,No Fall,,,,
+5,6,2,walking,No Fall,No Fall,,,,
+5,6,3,walking,No Fall,No Fall,,,,
+5,7,1,standing,No Fall,No Fall,,,,
+5,7,2,standing,No Fall,No Fall,,,,
+5,7,3,standing,No Fall,No Fall,,,,
+5,8,1,sitting,No Fall,No Fall,,,,
+5,8,2,sitting,No Fall,No Fall,,,,
+5,8,3,sitting,No Fall,No Fall,,,,
+5,9,1,picking up object,No Fall,No Fall,,,,
+5,9,2,picking up object,No Fall,No Fall,,,,
+5,9,3,picking up object,No Fall,Fall,0,0.272,2.429,0.181
+5,10,1,jumping,No Fall,No Fall,,,,
+5,10,2,jumping,No Fall,No Fall,,,,
+5,10,3,jumping,No Fall,No Fall,,,,
+5,11,1,lying,No Fall,No Fall,,,,
+5,11,2,lying,No Fall,No Fall,,,,
+5,11,3,lying,No Fall,No Fall,,,,
+6,1,1,Falling forward on hands,Fall,Fall,15,0.383,4.278,0.051
+6,1,2,Falling forward on hands,Fall,Fall,15,0.357,4.984,0.05
+6,1,3,Falling forward on hands,Fall,No Fall,,,,
+6,2,1,Falling forward on knees,Fall,No Fall,,,,
+6,2,2,Falling forward on knees,Fall,No Fall,,,,
+6,2,3,Falling forward on knees,Fall,Fall,15,0.274,2.641,0.008
+6,3,1,Falling backwards,Fall,No Fall,,,,
+6,3,2,Falling backwards,Fall,No Fall,,,,
+6,3,3,Falling backwards,Fall,No Fall,,,,
+6,4,1,Falling sidewards,Fall,No Fall,,,,
+6,4,2,Falling sidewards,Fall,No Fall,,,,
+6,4,3,Falling sidewards,Fall,No Fall,,,,
+6,5,1,Falling from chair,Fall,No Fall,,,,
+6,5,2,Falling from chair,Fall,No Fall,,,,
+6,5,3,Falling from chair,Fall,No Fall,,,,
+6,6,1,walking,No Fall,No Fall,,,,
+6,6,2,walking,No Fall,No Fall,,,,
+6,6,3,walking,No Fall,No Fall,,,,
+6,7,1,standing,No Fall,No Fall,,,,
+6,7,2,standing,No Fall,No Fall,,,,
+6,7,3,standing,No Fall,No Fall,,,,
+6,8,1,sitting,No Fall,No Fall,,,,
+6,8,2,sitting,No Fall,No Fall,,,,
+6,8,3,sitting,No Fall,No Fall,,,,
+6,9,1,picking up object,No Fall,No Fall,,,,
+6,9,2,picking up object,No Fall,No Fall,,,,
+6,9,3,picking up object,No Fall,No Fall,,,,
+6,10,1,jumping,No Fall,No Fall,,,,
+6,10,2,jumping,No Fall,No Fall,,,,
+6,10,3,jumping,No Fall,No Fall,,,,
+6,11,1,lying,No Fall,No Fall,,,,
+6,11,2,lying,No Fall,No Fall,,,,
+6,11,3,lying,No Fall,No Fall,,,,
+7,1,1,Falling forward on hands,Fall,No Fall,,,,
+7,1,2,Falling forward on hands,Fall,Fall,15,0.226,3.783,0.064
+7,1,3,Falling forward on hands,Fall,Fall,30,0.208,3.236,0.084
+7,2,1,Falling forward on knees,Fall,Fall,0,0.396,4.208,0.141
+7,2,2,Falling forward on knees,Fall,Fall,0,0.37,3.664,0.126
+7,2,3,Falling forward on knees,Fall,Fall,0,0.35,3.348,0.159
+7,3,1,Falling backwards,Fall,Fall,15,0.175,8.258,0.083
+7,3,2,Falling backwards,Fall,Fall,30,0.392,6.524,0.018
+7,3,3,Falling backwards,Fall,Fall,15,0.391,4.427,0.075
+7,4,1,Falling sidewards,Fall,Fall,0,0.088,7.513,0.043
+7,4,2,Falling sidewards,Fall,No Fall,,,,
+7,4,3,Falling sidewards,Fall,No Fall,,,,
+7,5,1,Falling from chair,Fall,No Fall,,,,
+7,5,2,Falling from chair,Fall,Fall,15,0.237,2.459,0.113
+7,5,3,Falling from chair,Fall,No Fall,,,,
+7,6,1,walking,No Fall,No Fall,,,,
+7,6,2,walking,No Fall,No Fall,,,,
+7,6,3,walking,No Fall,No Fall,,,,
+7,7,1,standing,No Fall,No Fall,,,,
+7,7,2,standing,No Fall,No Fall,,,,
+7,7,3,standing,No Fall,No Fall,,,,
+7,8,1,sitting,No Fall,No Fall,,,,
+7,8,2,sitting,No Fall,No Fall,,,,
+7,8,3,sitting,No Fall,No Fall,,,,
+7,9,1,picking up object,No Fall,No Fall,,,,
+7,9,2,picking up object,No Fall,No Fall,,,,
+7,9,3,picking up object,No Fall,No Fall,,,,
+7,10,1,jumping,No Fall,No Fall,,,,
+7,10,2,jumping,No Fall,No Fall,,,,
+7,10,3,jumping,No Fall,No Fall,,,,
+7,11,1,lying,No Fall,No Fall,,,,
+7,11,2,lying,No Fall,No Fall,,,,
+7,11,3,lying,No Fall,No Fall,,,,
+8,1,1,Falling forward on hands,Fall,No Fall,,,,
+8,1,2,Falling forward on hands,Fall,Fall,30,0.27,3.228,0.158
+8,1,3,Falling forward on hands,Fall,No Fall,,,,
+8,2,1,Falling forward on knees,Fall,No Fall,,,,
+8,2,2,Falling forward on knees,Fall,No Fall,,,,
+8,2,3,Falling forward on knees,Fall,Fall,30,0.205,3.153,0.179
+8,3,1,Falling backwards,Fall,No Fall,,,,
+8,3,2,Falling backwards,Fall,No Fall,,,,
+8,3,3,Falling backwards,Fall,Fall,15,0.207,3.495,0.043
+8,4,1,Falling sidewards,Fall,No Fall,,,,
+8,4,2,Falling sidewards,Fall,No Fall,,,,
+8,4,3,Falling sidewards,Fall,Fall,45,0.374,3.876,0.043
+8,5,1,Falling from chair,Fall,Fall,30,0.392,2.816,0.168
+8,5,2,Falling from chair,Fall,No Fall,,,,
+8,5,3,Falling from chair,Fall,No Fall,,,,
+8,6,1,walking,No Fall,No Fall,,,,
+8,6,2,walking,No Fall,No Fall,,,,
+8,6,3,walking,No Fall,No Fall,,,,
+8,7,1,standing,No Fall,No Fall,,,,
+8,7,2,standing,No Fall,No Fall,,,,
+8,7,3,standing,No Fall,No Fall,,,,
+8,8,1,sitting,No Fall,No Fall,,,,
+8,8,2,sitting,No Fall,No Fall,,,,
+8,8,3,sitting,No Fall,No Fall,,,,
+8,9,1,picking up object,No Fall,No Fall,,,,
+8,9,2,picking up object,No Fall,No Fall,,,,
+8,9,3,picking up object,No Fall,No Fall,,,,
+8,10,1,jumping,No Fall,No Fall,,,,
+8,10,2,jumping,No Fall,No Fall,,,,
+8,10,3,jumping,No Fall,No Fall,,,,
+8,11,1,lying,No Fall,No Fall,,,,
+9,1,1,Falling forward on hands,Fall,No Fall,,,,
+9,1,2,Falling forward on hands,Fall,No Fall,,,,
+9,1,3,Falling forward on hands,Fall,No Fall,,,,
+9,2,1,Falling forward on knees,Fall,No Fall,,,,
+9,2,2,Falling forward on knees,Fall,No Fall,,,,
+9,2,3,Falling forward on knees,Fall,No Fall,,,,
+9,3,1,Falling backwards,Fall,No Fall,,,,
+9,3,2,Falling backwards,Fall,No Fall,,,,
+9,3,3,Falling backwards,Fall,No Fall,,,,
+9,4,1,Falling sidewards,Fall,No Fall,,,,
+9,4,2,Falling sidewards,Fall,No Fall,,,,
+9,4,3,Falling sidewards,Fall,No Fall,,,,
+9,5,1,Falling from chair,Fall,No Fall,,,,
+9,5,2,Falling from chair,Fall,No Fall,,,,
+9,5,3,Falling from chair,Fall,No Fall,,,,
+9,6,1,walking,No Fall,No Fall,,,,
+9,6,2,walking,No Fall,No Fall,,,,
+9,6,3,walking,No Fall,No Fall,,,,
+9,7,1,standing,No Fall,No Fall,,,,
+9,7,2,standing,No Fall,No Fall,,,,
+9,7,3,standing,No Fall,No Fall,,,,
+9,8,1,sitting,No Fall,No Fall,,,,
+9,8,2,sitting,No Fall,No Fall,,,,
+9,8,3,sitting,No Fall,No Fall,,,,
+9,9,1,picking up object,No Fall,No Fall,,,,
+9,9,2,picking up object,No Fall,No Fall,,,,
+9,9,3,picking up object,No Fall,No Fall,,,,
+9,10,1,jumping,No Fall,No Fall,,,,
+9,10,2,jumping,No Fall,Fall,405,0.105,3.25,0.133
+9,10,3,jumping,No Fall,Fall,435,0.198,3.017,0.107
+9,11,1,lying,No Fall,No Fall,,,,
+9,11,2,lying,No Fall,No Fall,,,,
+9,11,3,lying,No Fall,No Fall,,,,
+10,1,1,Falling forward on hands,Fall,Fall,15,0.266,2.826,0.043
+10,1,2,Falling forward on hands,Fall,Fall,0,0.354,3.258,0.103
+10,1,3,Falling forward on hands,Fall,Fall,0,0.3,3.684,0.063
+10,2,1,Falling forward on knees,Fall,Fall,0,0.235,2.88,0.1
+10,2,2,Falling forward on knees,Fall,Fall,0,0.397,2.181,0.131
+10,2,3,Falling forward on knees,Fall,No Fall,,,,
+10,3,1,Falling backwards,Fall,No Fall,,,,
+10,3,2,Falling backwards,Fall,No Fall,,,,
+10,3,3,Falling backwards,Fall,No Fall,,,,
+10,4,1,Falling sidewards,Fall,No Fall,,,,
+10,4,2,Falling sidewards,Fall,No Fall,,,,
+10,4,3,Falling sidewards,Fall,No Fall,,,,
+10,5,1,Falling from chair,Fall,No Fall,,,,
+10,5,2,Falling from chair,Fall,No Fall,,,,
+10,5,3,Falling from chair,Fall,No Fall,,,,
+10,6,1,walking,No Fall,No Fall,,,,
+10,6,2,walking,No Fall,No Fall,,,,
+10,6,3,walking,No Fall,No Fall,,,,
+10,7,1,standing,No Fall,No Fall,,,,
+10,7,2,standing,No Fall,No Fall,,,,
+10,7,3,standing,No Fall,No Fall,,,,
+10,8,1,sitting,No Fall,No Fall,,,,
+10,8,2,sitting,No Fall,No Fall,,,,
+10,8,3,sitting,No Fall,No Fall,,,,
+10,9,1,picking up object,No Fall,Fall,0,0.181,3.049,0.066
+10,9,2,picking up object,No Fall,No Fall,,,,
+10,9,3,picking up object,No Fall,No Fall,,,,
+10,10,1,jumping,No Fall,No Fall,,,,
+10,10,2,jumping,No Fall,No Fall,,,,
+10,10,3,jumping,No Fall,No Fall,,,,
+10,11,1,lying,No Fall,No Fall,,,,
+10,11,2,lying,No Fall,No Fall,,,,
+10,11,3,lying,No Fall,No Fall,,,,
+11,1,1,Falling forward on hands,Fall,Fall,0,0.348,3.972,0.11
+11,1,2,Falling forward on hands,Fall,Fall,15,0.385,4.904,0.035
+11,1,3,Falling forward on hands,Fall,No Fall,,,,
+11,2,1,Falling forward on knees,Fall,No Fall,,,,
+11,2,2,Falling forward on knees,Fall,No Fall,,,,
+11,2,3,Falling forward on knees,Fall,No Fall,,,,
+11,3,1,Falling backwards,Fall,No Fall,,,,
+11,3,2,Falling backwards,Fall,No Fall,,,,
+11,3,3,Falling backwards,Fall,No Fall,,,,
+11,4,1,Falling sidewards,Fall,No Fall,,,,
+11,4,2,Falling sidewards,Fall,No Fall,,,,
+11,4,3,Falling sidewards,Fall,No Fall,,,,
+11,5,1,Falling from chair,Fall,Fall,15,0.365,2.623,0.109
+11,5,2,Falling from chair,Fall,No Fall,,,,
+11,5,3,Falling from chair,Fall,No Fall,,,,
+11,6,1,walking,No Fall,No Fall,,,,
+11,6,2,walking,No Fall,No Fall,,,,
+11,6,3,walking,No Fall,No Fall,,,,
+11,7,1,standing,No Fall,No Fall,,,,
+11,7,2,standing,No Fall,No Fall,,,,
+11,7,3,standing,No Fall,No Fall,,,,
+11,8,1,sitting,No Fall,No Fall,,,,
+11,8,2,sitting,No Fall,No Fall,,,,
+11,8,3,sitting,No Fall,No Fall,,,,
+11,9,1,picking up object,No Fall,No Fall,,,,
+11,9,2,picking up object,No Fall,No Fall,,,,
+11,9,3,picking up object,No Fall,No Fall,,,,
+11,10,1,jumping,No Fall,No Fall,,,,
+11,10,2,jumping,No Fall,No Fall,,,,
+11,10,3,jumping,No Fall,No Fall,,,,
+11,11,1,lying,No Fall,No Fall,,,,
+11,11,2,lying,No Fall,No Fall,,,,
+11,11,3,lying,No Fall,No Fall,,,,
+12,1,1,Falling forward on hands,Fall,Fall,15,0.352,3.709,0.028
+12,1,2,Falling forward on hands,Fall,No Fall,,,,
+12,1,3,Falling forward on hands,Fall,No Fall,,,,
+12,2,1,Falling forward on knees,Fall,Fall,0,0.148,4.036,0.097
+12,2,2,Falling forward on knees,Fall,No Fall,,,,
+12,2,3,Falling forward on knees,Fall,Fall,15,0.388,2.222,0.02
+12,3,1,Falling backwards,Fall,Fall,0,0.364,4.273,0.087
+12,3,2,Falling backwards,Fall,Fall,0,0.299,2.715,0.186
+12,3,3,Falling backwards,Fall,No Fall,,,,
+12,4,1,Falling sidewards,Fall,No Fall,,,,
+12,4,2,Falling sidewards,Fall,Fall,0,0.301,3.721,0.157
+12,4,3,Falling sidewards,Fall,Fall,0,0.335,3.84,0.118
+12,5,1,Falling from chair,Fall,No Fall,,,,
+12,5,2,Falling from chair,Fall,No Fall,,,,
+12,5,3,Falling from chair,Fall,Fall,15,0.305,2.209,0.05
+12,6,1,walking,No Fall,No Fall,,,,
+12,6,2,walking,No Fall,No Fall,,,,
+12,6,3,walking,No Fall,No Fall,,,,
+12,7,1,standing,No Fall,No Fall,,,,
+12,7,2,standing,No Fall,No Fall,,,,
+12,7,3,standing,No Fall,No Fall,,,,
+12,8,1,sitting,No Fall,No Fall,,,,
+12,8,2,sitting,No Fall,No Fall,,,,
+12,8,3,sitting,No Fall,No Fall,,,,
+12,9,1,picking up object,No Fall,No Fall,,,,
+12,9,2,picking up object,No Fall,No Fall,,,,
+12,9,3,picking up object,No Fall,No Fall,,,,
+12,10,1,jumping,No Fall,No Fall,,,,
+12,10,2,jumping,No Fall,No Fall,,,,
+12,10,3,jumping,No Fall,No Fall,,,,
+12,11,1,lying,No Fall,No Fall,,,,
+12,11,2,lying,No Fall,No Fall,,,,
+12,11,3,lying,No Fall,No Fall,,,,
+13,1,1,Falling forward on hands,Fall,No Fall,,,,
+13,1,2,Falling forward on hands,Fall,Fall,75,0.313,2.873,0.082
+13,1,3,Falling forward on hands,Fall,Fall,15,0.369,3.539,0.042
+13,2,1,Falling forward on knees,Fall,Fall,15,0.103,3.324,0.194
+13,2,2,Falling forward on knees,Fall,No Fall,,,,
+13,2,3,Falling forward on knees,Fall,No Fall,,,,
+13,3,1,Falling backwards,Fall,No Fall,,,,
+13,3,2,Falling backwards,Fall,No Fall,,,,
+13,3,3,Falling backwards,Fall,No Fall,,,,
+13,4,1,Falling sidewards,Fall,Fall,15,0.352,2.572,0.043
+13,4,2,Falling sidewards,Fall,Fall,0,0.399,2.554,0.18
+13,4,3,Falling sidewards,Fall,Fall,15,0.331,2.299,0.035
+13,5,1,Falling from chair,Fall,No Fall,,,,
+13,5,2,Falling from chair,Fall,Fall,15,0.329,2.686,0.085
+13,5,3,Falling from chair,Fall,No Fall,,,,
+13,6,1,walking,No Fall,No Fall,,,,
+13,6,2,walking,No Fall,No Fall,,,,
+13,6,3,walking,No Fall,No Fall,,,,
+13,7,1,standing,No Fall,No Fall,,,,
+13,7,2,standing,No Fall,No Fall,,,,
+13,7,3,standing,No Fall,No Fall,,,,
+13,8,1,sitting,No Fall,No Fall,,,,
+13,8,2,sitting,No Fall,No Fall,,,,
+13,8,3,sitting,No Fall,No Fall,,,,
+13,9,1,picking up object,No Fall,No Fall,,,,
+13,9,2,picking up object,No Fall,No Fall,,,,
+13,9,3,picking up object,No Fall,No Fall,,,,
+13,10,1,jumping,No Fall,No Fall,,,,
+13,10,2,jumping,No Fall,No Fall,,,,
+13,10,3,jumping,No Fall,No Fall,,,,
+13,11,1,lying,No Fall,No Fall,,,,
+13,11,2,lying,No Fall,No Fall,,,,
+13,11,3,lying,No Fall,No Fall,,,,
+14,1,1,Falling forward on hands,Fall,No Fall,,,,
+14,1,2,Falling forward on hands,Fall,Fall,45,0.277,2.754,0.017
+14,1,3,Falling forward on hands,Fall,No Fall,,,,
+14,2,1,Falling forward on knees,Fall,No Fall,,,,
+14,2,2,Falling forward on knees,Fall,No Fall,,,,
+14,2,3,Falling forward on knees,Fall,Fall,15,0.187,2.484,0.016
+14,3,1,Falling backwards,Fall,No Fall,,,,
+14,3,2,Falling backwards,Fall,No Fall,,,,
+14,3,3,Falling backwards,Fall,No Fall,,,,
+14,4,1,Falling sidewards,Fall,Fall,15,0.311,2.883,0.11
+14,4,2,Falling sidewards,Fall,No Fall,,,,
+14,4,3,Falling sidewards,Fall,No Fall,,,,
+14,5,1,Falling from chair,Fall,No Fall,,,,
+14,5,2,Falling from chair,Fall,No Fall,,,,
+14,5,3,Falling from chair,Fall,No Fall,,,,
+14,6,1,walking,No Fall,No Fall,,,,
+14,6,2,walking,No Fall,No Fall,,,,
+14,6,3,walking,No Fall,No Fall,,,,
+14,7,1,standing,No Fall,Fall,720,0.222,2.84,0.088
+14,7,2,standing,No Fall,No Fall,,,,
+14,7,3,standing,No Fall,No Fall,,,,
+14,8,1,sitting,No Fall,No Fall,,,,
+14,8,2,sitting,No Fall,No Fall,,,,
+14,8,3,sitting,No Fall,No Fall,,,,
+14,9,1,picking up object,No Fall,No Fall,,,,
+14,9,2,picking up object,No Fall,No Fall,,,,
+14,9,3,picking up object,No Fall,No Fall,,,,
+14,10,1,jumping,No Fall,No Fall,,,,
+14,10,2,jumping,No Fall,No Fall,,,,
+14,10,3,jumping,No Fall,No Fall,,,,
+14,11,1,lying,No Fall,Fall,0,0.257,3.624,0.003
+14,11,2,lying,No Fall,No Fall,,,,
+14,11,3,lying,No Fall,No Fall,,,,
+15,1,1,Falling forward on hands,Fall,Fall,0,0.286,3.44,0.078
+15,1,2,Falling forward on hands,Fall,Fall,0,0.319,4.508,0.03
+15,1,3,Falling forward on hands,Fall,No Fall,,,,
+15,2,1,Falling forward on knees,Fall,No Fall,,,,
+15,2,2,Falling forward on knees,Fall,No Fall,,,,
+15,2,3,Falling forward on knees,Fall,Fall,0,0.273,2.506,0.182
+15,3,1,Falling backwards,Fall,Fall,15,0.291,3.725,0.107
+15,3,2,Falling backwards,Fall,Fall,0,0.347,4.183,0.134
+15,3,3,Falling backwards,Fall,No Fall,,,,
+15,4,1,Falling sidewards,Fall,No Fall,,,,
+15,4,2,Falling sidewards,Fall,No Fall,,,,
+15,4,3,Falling sidewards,Fall,No Fall,,,,
+15,5,1,Falling from chair,Fall,No Fall,,,,
+15,5,2,Falling from chair,Fall,No Fall,,,,
+15,5,3,Falling from chair,Fall,No Fall,,,,
+15,6,1,walking,No Fall,No Fall,,,,
+15,6,2,walking,No Fall,No Fall,,,,
+15,6,3,walking,No Fall,No Fall,,,,
+15,7,1,standing,No Fall,No Fall,,,,
+15,7,2,standing,No Fall,No Fall,,,,
+15,7,3,standing,No Fall,No Fall,,,,
+15,8,1,sitting,No Fall,No Fall,,,,
+15,8,2,sitting,No Fall,No Fall,,,,
+15,8,3,sitting,No Fall,No Fall,,,,
+15,9,1,picking up object,No Fall,Fall,105,0.35,2.831,0.033
+15,9,2,picking up object,No Fall,No Fall,,,,
+15,9,3,picking up object,No Fall,No Fall,,,,
+15,10,1,jumping,No Fall,No Fall,,,,
+15,10,2,jumping,No Fall,No Fall,,,,
+15,10,3,jumping,No Fall,No Fall,,,,
+15,11,1,lying,No Fall,No Fall,,,,
+15,11,2,lying,No Fall,No Fall,,,,
+15,11,3,lying,No Fall,No Fall,,,,
+16,1,1,Falling forward on hands,Fall,Fall,15,0.38,3.44,0.016
+16,1,2,Falling forward on hands,Fall,No Fall,,,,
+16,1,3,Falling forward on hands,Fall,No Fall,,,,
+16,2,1,Falling forward on knees,Fall,Fall,0,0.316,3.356,0.021
+16,2,2,Falling forward on knees,Fall,No Fall,,,,
+16,2,3,Falling forward on knees,Fall,Fall,0,0.357,4.085,0.025
+16,3,1,Falling backwards,Fall,Fall,0,0.123,5.239,0.082
+16,3,2,Falling backwards,Fall,Fall,15,0.257,5.189,0.016
+16,3,3,Falling backwards,Fall,Fall,15,0.053,3.189,0.063
+16,4,1,Falling sidewards,Fall,Fall,0,0.312,4.807,0.036
+16,4,2,Falling sidewards,Fall,No Fall,,,,
+16,4,3,Falling sidewards,Fall,No Fall,,,,
+16,5,1,Falling from chair,Fall,Fall,15,0.279,2.666,0.032
+16,5,2,Falling from chair,Fall,No Fall,,,,
+16,5,3,Falling from chair,Fall,No Fall,,,,
+16,6,1,walking,No Fall,No Fall,,,,
+16,6,2,walking,No Fall,No Fall,,,,
+16,6,3,walking,No Fall,No Fall,,,,
+16,7,1,standing,No Fall,No Fall,,,,
+16,7,2,standing,No Fall,No Fall,,,,
+16,7,3,standing,No Fall,No Fall,,,,
+16,8,1,sitting,No Fall,No Fall,,,,
+16,8,2,sitting,No Fall,No Fall,,,,
+16,8,3,sitting,No Fall,No Fall,,,,
+16,9,1,picking up object,No Fall,No Fall,,,,
+16,9,2,picking up object,No Fall,No Fall,,,,
+16,9,3,picking up object,No Fall,No Fall,,,,
+16,10,1,jumping,No Fall,No Fall,,,,
+16,10,2,jumping,No Fall,No Fall,,,,
+16,10,3,jumping,No Fall,No Fall,,,,
+16,11,1,lying,No Fall,No Fall,,,,
+16,11,2,lying,No Fall,No Fall,,,,
+16,11,3,lying,No Fall,No Fall,,,,
+17,1,1,Falling forward on hands,Fall,No Fall,,,,
+17,1,2,Falling forward on hands,Fall,No Fall,,,,
+17,1,3,Falling forward on hands,Fall,No Fall,,,,
+17,2,1,Falling forward on knees,Fall,Fall,0,0.317,4.239,0.169
+17,2,2,Falling forward on knees,Fall,No Fall,,,,
+17,2,3,Falling forward on knees,Fall,No Fall,,,,
+17,3,1,Falling backwards,Fall,Fall,15,0.331,3.621,0.051
+17,3,2,Falling backwards,Fall,No Fall,,,,
+17,3,3,Falling backwards,Fall,Fall,30,0.387,3.864,0.022
+17,4,1,Falling sidewards,Fall,No Fall,,,,
+17,4,2,Falling sidewards,Fall,No Fall,,,,
+17,4,3,Falling sidewards,Fall,No Fall,,,,
+17,5,1,Falling from chair,Fall,No Fall,,,,
+17,5,2,Falling from chair,Fall,Fall,15,0.318,2.728,0.126
+17,5,3,Falling from chair,Fall,No Fall,,,,
+17,6,1,walking,No Fall,No Fall,,,,
+17,6,2,walking,No Fall,No Fall,,,,
+17,6,3,walking,No Fall,No Fall,,,,
+17,7,1,standing,No Fall,No Fall,,,,
+17,7,2,standing,No Fall,No Fall,,,,
+17,7,3,standing,No Fall,No Fall,,,,
+17,8,1,sitting,No Fall,No Fall,,,,
+17,8,2,sitting,No Fall,No Fall,,,,
+17,8,3,sitting,No Fall,No Fall,,,,
+17,9,1,picking up object,No Fall,No Fall,,,,
+17,9,2,picking up object,No Fall,No Fall,,,,
+17,9,3,picking up object,No Fall,No Fall,,,,
+17,10,1,jumping,No Fall,No Fall,,,,
+17,10,2,jumping,No Fall,No Fall,,,,
+17,10,3,jumping,No Fall,No Fall,,,,
+17,11,1,lying,No Fall,No Fall,,,,
+17,11,2,lying,No Fall,No Fall,,,,
+17,11,3,lying,No Fall,No Fall,,,,
