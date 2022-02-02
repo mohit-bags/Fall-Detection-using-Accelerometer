@@ -1,7 +1,7 @@
 # Fall-Detection-using-Accelerometer
 
 Detecting a Fall using Wrist Worn Triaxial Accelerometer
-Considering three main stages
+Considering three main stages-- Freefall, Impact and Inactivity after a fall
 
 1. Start of the fall:The phenomenon of weightlessness will always occur at the start of a fall. It will become more significant during free fall, and the vector sum of acceleration will tend toward 0 g; the duration of that condition will depend on the height of freefall. Even though weightlessness during an ordinary fall is not as significant as that during a freefall, the vector sum of acceleration will still be substantially less than 1 g (while it is generally greater than 1 g under normal conditions). Therefore, this is the first basis for determining the fall status that could be detected by the ADXL345’s FREE_FALL interrupt.
 2. Impact: After experiencing weightlessness, the human body will impact the ground or other objects; the acceleration curve shows this as a large shock. This shock is detected by the ACTIVITY interrupt of ADXL345. Therefore, the second basis for determining a fall is the ACTIVITY interrupt right after the FREE_FALL interrupt.
